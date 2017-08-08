@@ -1,7 +1,8 @@
 baseurl = "http://sukria.net/"
-languageCode = "fr-fr"
+languageCode = "fr-FR"
 title = "sukria.net"
 theme = "strata"
+DefaultContentLanguage = "fr"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
