@@ -1,0 +1,77 @@
+/****************************************/
+/*	Local CSS - Sukria.net 				*/
+/****************************************/
+
+/****************************************/
+/*****			Home		 		*****/
+
+div.intro p {
+	font-family: 'Roboto Slab', serif;
+	color: #555;
+	font-size: 1em;
+}
+div.intro h2 {
+	font-family: "Saira", sans-serif;
+}
+
+/* liste Recent Posts */
+ul.recent-posts {
+	list-style-type: none;
+	padding-left: 0;
+}
+ul.recent-posts li {
+	padding-left: 0;
+
+}
+
+ul.recent-posts li a {
+	color: #444;
+}
+
+/****************************************/
+/*****			sidebar		 		*****/
+
+nav#sidebar ul li a:hover {
+	color: #eee;
+}
+
+/****************************************/
+/*****			Post 		 		*****/
+
+div.post-body {
+	margin-top: 1em;
+}
+
+div.post-meta {
+	text-align: right;
+	font-size: 0.7em;
+	margin: 0;
+	padding: 0;
+}
+
+h1.post-title {
+	font-family: "Saira", sans-serif;
+	font-size: 3em;
+}
+
+div.post-body p {
+	font-family: 'Roboto Slab', serif;
+	color: #555;
+	font-size: 1.2em;
+}
+
+div.post-body a {
+	color: #993366;
+}
+
+/****************************************/
+/*****			Post Summary 		*****/
+
+h1.summary {
+	font-family: "Saira", sans-serif;
+	font-size: 1.5em;
+}
+
+p.summary {
+	font-style: italic;
+}
