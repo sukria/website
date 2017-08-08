@@ -1,3 +1,6 @@
 [submodule "sukrieh/themes/ananke"]
 	path = sukrieh/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "sukrieh/themes/strata"]
+	path = sukrieh/themes/strata
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
