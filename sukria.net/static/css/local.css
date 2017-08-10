@@ -2,8 +2,8 @@
 /*	Local CSS - Sukria.net 				*/
 /****************************************/
 
-/****************************************/
-/*****			Home		 		*****/
+
+/* --- Home	--- */
 
 div.intro p {
 	font-family: 'Roboto Slab', serif;
@@ -28,21 +28,32 @@ ul.recent-posts li a {
 	color: #444;
 }
 
-/****************************************/
-/*****			sidebar		 		*****/
+/* --- Sidebar	--- */
 
 nav#sidebar ul li a:hover {
 	color: #eee;
 }
 
-/****************************************/
-/*****			Post 		 		*****/
+/* --- Post	--- */
 
 div.post-body {
 	margin: 0;
 	padding: 0;
 	margin-top: 1em;
 
+}
+
+div.post-body h2 {
+	margin-top: 1em;
+	margin-bottom: 0.3em;
+}
+
+div.post-body img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	border: 1px solid #aaa;
 }
 
 div.post-meta {
@@ -58,6 +69,7 @@ h1.post-title {
 }
 
 div.post-body p {
+	margin-top: 0;
 	font-family: 'Roboto Slab', serif;
 	color: #555;
 	font-size: 1.2em;
@@ -67,8 +79,7 @@ div.post-body a {
 	color: #993366;
 }
 
-/****************************************/
-/*****			Post Summary 		*****/
+/* --- Post Summary - pagination --- */
 
 h1.summary {
 	font-family: "Saira", sans-serif;
