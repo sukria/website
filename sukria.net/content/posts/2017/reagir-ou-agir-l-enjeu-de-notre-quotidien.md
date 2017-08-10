@@ -56,7 +56,7 @@ Le chaos s'installe chaque jour un peu plus, transformant chacune de nos journé
 
 Nous réagissons, telle la truite se laissant porter par le courant de la rivière, telle la mouette s'élevant avec l'air chaud marin, tel le chien sprintant après son bâton ; nous voilà poussés en avant (*pour aller où ?*), aveuglés que nous sommes par nos *routines de vie par défaut*.
 
-Agir durant nos journée, et non pas *réagir à nos journées* fait toute la différence, et il ne tient qu'à chacun de nous de décider de quelle façon nous voulons aborder la chose. Voulons-nous vivre, ou survivre ?
+Agir durant nos journées, et non pas *réagir à nos journées* fait toute la différence, et il ne tient qu'à chacun de nous de décider de quelle façon nous voulons aborder la chose. Voulons-nous vivre, ou survivre ?
 
 ## Reprendre le contrôle
 Ce sujet - la gestion de notre quotidien, ou plus vulgairement, notre *productivité* (je n'aime pas ce mot) - est vaste et ne pourra bien évidemment pas être couvert entièrement ici.
