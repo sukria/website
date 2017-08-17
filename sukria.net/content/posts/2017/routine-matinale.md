@@ -1,7 +1,7 @@
 ---
 title: "60 minutes pour une Routine Matinale efficace"
 date: 2017-08-10T12:03:32+02:00
-draft: true
+draft: false
 ---
 *« Ceux et celles qui ne réservent pas quotidiennement un peu de temps pour leur santé devront un jour consacrer beaucoup de temps à leur maladie. »* -- [Sebastian Kneipp](https://fr.wikipedia.org/wiki/Sebastian_Kneipp)
 
