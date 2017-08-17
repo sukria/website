@@ -40,13 +40,20 @@ div.post-body {
 	margin: 0;
 	padding: 0;
 	margin-top: 1em;
-
+	font-weight: normal;
 }
 
 div.post-body h2 {
 	margin-top: 1em;
 	margin-bottom: 0.3em;
 }
+
+div.post-body strong {
+	font-weight: 900;
+	font-size: 1em;
+	color: #000;
+}
+
 
 div.post-body img {
 	display: block;
@@ -68,7 +75,13 @@ h1.post-title {
 	font-size: 3em;
 }
 
-div.post-body p {
+div.post-body ul, ol {
+	margin: 0;
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
+
+div.post-body p, ul, ol {
 	margin-top: 0;
 	font-family: 'Roboto Slab', serif;
 	color: #555;
@@ -77,6 +90,11 @@ div.post-body p {
 
 div.post-body a {
 	color: #993366;
+}
+
+/* Post: Intro */
+div.post-body div.intro {
+	color: red;
 }
 
 /* --- Post Summary - pagination --- */

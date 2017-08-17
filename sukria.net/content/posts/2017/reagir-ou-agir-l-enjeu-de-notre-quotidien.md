@@ -63,7 +63,7 @@ Ce sujet - la gestion de notre quotidien, ou plus vulgairement, notre *productiv
 
 Il est néanmoins la base de nombre de mes questionnements, réflexions, expérimentations et recherches occasionnelles.
 
-  1. [Routine matinale](/posts/2017/routine-matinale/)
+  1. [60 minutes pour une Routine matinale efficace](/posts/2017/routine-matinale/)
 
 Plusieurs de mes prochains billets évoqueront ce thème, sous différents angles, et souvent, en témoignant de quelques pratiques que j'ai adoptées pour tenter modestement de tirer partie de mon temps, consciemment.
 
